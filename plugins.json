@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=taboohome.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/DArkSiderS123/tab",
+        "fileSize": 10948,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "DArkSiderS123"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "taboohome",
+        "description": "Premium porn with 4K support (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/GoodPorn.cs3",
+        "name": "taboohome"
+    }
+]
